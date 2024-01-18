@@ -97,7 +97,7 @@ var out = isSameValueZerof( z1, z2 );
 // returns true
 ```
 
-In contrast to the [SameValue Algorithm][ecma-262-same-value-algorithm] (as specified in ECMAScript 5), the function does not distinguish between `+0` and `-0`.
+In contrast to the [SameValue Algorithm][@stdlib/complex/base/assert/is-same-valuef] (as specified in ECMAScript 5), the function does not distinguish between `+0` and `-0`.
 
 ```javascript
 var Complex64 = require( '@stdlib/complex-float32' );
@@ -329,7 +329,7 @@ Copyright &copy; 2016-2024. The Stdlib [Authors][stdlib-authors].
 [esm-url]: https://github.com/stdlib-js/complex-base-assert-is-same-value-zerof/tree/esm
 [branches-url]: https://github.com/stdlib-js/complex-base-assert-is-same-value-zerof/blob/main/branches.md
 
-[ecma-262-same-value-algorithm]: http://ecma-international.org/ecma-262/5.1/#sec-9.12
+[@stdlib/complex/base/assert/is-same-valuef]: https://github.com/stdlib-js/stdlib
 
 </section>
 
