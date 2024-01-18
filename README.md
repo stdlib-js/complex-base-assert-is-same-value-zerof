@@ -329,7 +329,7 @@ Copyright &copy; 2016-2024. The Stdlib [Authors][stdlib-authors].
 [esm-url]: https://github.com/stdlib-js/complex-base-assert-is-same-value-zerof/tree/esm
 [branches-url]: https://github.com/stdlib-js/complex-base-assert-is-same-value-zerof/blob/main/branches.md
 
-[@stdlib/complex/base/assert/is-same-valuef]: https://github.com/stdlib-js/stdlib
+[@stdlib/complex/base/assert/is-same-valuef]: https://github.com/stdlib-js/complex-base-assert-is-same-valuef
 
 </section>
 
