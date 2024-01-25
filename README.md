@@ -52,7 +52,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import isSameValueZerof from 'https://cdn.jsdelivr.net/gh/stdlib-js/complex-base-assert-is-same-value-zerof@deno/mod.js';
+import isSameValueZerof from 'https://cdn.jsdelivr.net/gh/stdlib-js/complex-base-assert-is-same-value-zerof@v0.1.0-deno/mod.js';
 ```
 
 #### isSameValueZerof( z1, z2 )
@@ -115,7 +115,7 @@ var out = isSameValueZerof( z1, z2 );
 
 ```javascript
 import Complex64 from 'https://cdn.jsdelivr.net/gh/stdlib-js/complex-float32@deno/mod.js';
-import isSameValueZerof from 'https://cdn.jsdelivr.net/gh/stdlib-js/complex-base-assert-is-same-value-zerof@deno/mod.js';
+import isSameValueZerof from 'https://cdn.jsdelivr.net/gh/stdlib-js/complex-base-assert-is-same-value-zerof@v0.1.0-deno/mod.js';
 
 var z1 = new Complex64( 5.0, 3.0 );
 var z2 = new Complex64( 5.0, 3.0 );
