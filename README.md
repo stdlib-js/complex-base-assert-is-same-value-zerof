@@ -54,7 +54,7 @@ limitations under the License.
 To use in Observable,
 
 ```javascript
-isSameValueZerof = require( 'https://cdn.jsdelivr.net/gh/stdlib-js/complex-base-assert-is-same-value-zerof@umd/browser.js' )
+isSameValueZerof = require( 'https://cdn.jsdelivr.net/gh/stdlib-js/complex-base-assert-is-same-value-zerof@v0.1.0-umd/browser.js' )
 ```
 
 To vendor stdlib functionality and avoid installing dependency trees for Node.js, you can use the UMD server build:
@@ -66,7 +66,7 @@ var isSameValueZerof = require( 'path/to/vendor/umd/complex-base-assert-is-same-
 To include the bundle in a webpage,
 
 ```html
-<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/complex-base-assert-is-same-value-zerof@umd/browser.js"></script>
+<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/complex-base-assert-is-same-value-zerof@v0.1.0-umd/browser.js"></script>
 ```
 
 If no recognized module system is present, access bundle contents via the global scope:
@@ -142,7 +142,7 @@ var out = isSameValueZerof( z1, z2 );
 <html lang="en">
 <body>
 <script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/complex-float32@umd/browser.js"></script>
-<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/complex-base-assert-is-same-value-zerof@umd/browser.js"></script>
+<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/complex-base-assert-is-same-value-zerof@v0.1.0-umd/browser.js"></script>
 <script type="text/javascript">
 (function () {
 
